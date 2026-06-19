@@ -2,7 +2,7 @@ import csv
 from functools import reduce
 
 # ==================================================
-# PERSON 1: Load CSV file and parse data
+# PERSON 1: Loading CSV file and parse data
 # Kayuza
 # ==================================================
 
@@ -17,7 +17,7 @@ with open("user_data.csv", mode="r", encoding="utf-8") as file:
         users.append(row)
 
 # ==================================================
-# PERSON 2: Filter users over 30 with purchases
+# PERSON 2: Filtering users over 30 with purchases
 # Shamma
 # greater than $100 and extract their emails
 # ==================================================
@@ -48,7 +48,7 @@ new_york_users = [
 ]
 
 # ==================================================
-# PERSON 4: Calculate total purchases using reduce
+# PERSON 4: Calculating total purchases using reduce
 # and find the top 5 oldest users
 # Stella
 # ==================================================
@@ -66,7 +66,7 @@ top_5_oldest = sorted(
 )[:5]
 
 # ==================================================
-# PERSON 5: Integrate everything and format output
+# PERSON 5: Integrating everything and formating output
 # Brady
 # ==================================================
 
