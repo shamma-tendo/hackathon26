@@ -1,0 +1,1001 @@
+Name,Email,Age,City,Purchase_Amount
+Jennifer Gomez,qpeters@example.net,70,San Jose,219.76
+Todd Galvan,rachel02@example.com,79,Charlotte,165.34
+Cheryl Cannon,parkerjennifer@example.org,77,Washington,230.83
+Barbara Mcdonald,lucerobradley@example.org,56,Fort Worth,292.18
+April Lee,corey92@example.com,26,San Antonio,411.51
+Dr. Matthew Peterson,harringtonkerry@example.org,55,San Diego,491.03
+Tracy Sullivan,burnsjames@example.net,32,Austin,55.84
+Eric Garcia,josepherickson@example.com,43,Washington,324.66
+Noah Wood,castillojeremy@example.net,68,Denver,269.76
+Travis Newman,jasmine70@example.org,45,Chicago,496.74
+Amy Phillips,reynoldscheyenne@example.net,35,Seattle,312.11
+Jay Moreno,sara85@example.com,25,Indianapolis,316.26
+Mary Rogers,jeffreymartin@example.com,20,New York,394.14
+Valerie Mckay,marknguyen@example.org,70,San Diego,329.42
+Megan Oconnor,courtneywalker@example.com,67,Columbus,284.06
+Peter Smith,nicole69@example.org,53,Chicago,314.47
+Diana Rivers,andrew81@example.com,29,Fort Worth,160.02
+Peter Mcpherson,mjohnson@example.com,56,Chicago,484.51
+Roberta Tucker,rmorales@example.org,60,Washington,165.84
+Meagan Jennings,heather55@example.net,66,Indianapolis,427.39
+William Smith,beth89@example.org,19,New York,11.09
+Jeffrey Hall,qgarcia@example.net,46,San Diego,448.09
+Shannon Jones,wmyers@example.com,68,Fort Worth,334.52
+Jessica Avila,justin30@example.org,37,San Diego,429.48
+Kayla Sims,glloyd@example.com,68,Fort Worth,226.83
+Jocelyn Morales,branchdavid@example.org,80,Houston,163.62
+Brooke Miller,lewisrichard@example.com,65,Washington,80.37
+Kayla Mosley,berrysabrina@example.net,21,Philadelphia,453.19
+Michael Diaz,qrodgers@example.net,21,Charlotte,413.37
+Michael Guerrero,cassandra04@example.net,38,Phoenix,184.54
+Karen Franklin,jaywebb@example.net,77,Philadelphia,316.71
+Mary Dudley,apetersen@example.org,79,Indianapolis,324.86
+Jessica Hall,kwhitney@example.com,64,San Jose,343.08
+Stephen Kelly,kathryn29@example.org,45,San Diego,435.72
+Alicia Miller,warddavid@example.com,74,San Antonio,245.37
+Sean Padilla,moorebenjamin@example.com,42,San Antonio,345.59
+Amy Wilcox,moniquemccormick@example.com,62,Washington,361.29
+Kristy Bailey,aweiss@example.com,32,Washington,486.83
+Cheryl Myers,mwilson@example.net,47,Philadelphia,168.49
+Monica Lee,nelliott@example.org,18,Phoenix,311.52
+Katrina Bailey,brenda36@example.net,18,Phoenix,92.57
+Tyler Riddle,emmamay@example.com,34,Los Angeles,322.28
+John Peters,victoria09@example.com,73,Los Angeles,334.45
+Carly Gallagher,lisa58@example.net,39,New York,30.41
+Brittany Sampson,davidanderson@example.com,67,Fort Worth,260.32
+Colleen Stewart,henryjackson@example.org,77,Seattle,363.45
+Thomas Jackson,isaacarnold@example.net,72,Charlotte,34.16
+Katie Williams,bonnie73@example.org,37,Seattle,310.4
+Mary Craig,lali@example.org,63,Houston,103.73
+Sherry Pham,jasmine59@example.net,44,San Diego,194.91
+Brooke Daniel,stephaniesmith@example.org,71,Washington,466.81
+Jonathon Martin MD,tcurtis@example.com,23,Jacksonville,411.05
+Michelle Cox,logananthony@example.net,59,Philadelphia,339.74
+Kara Shepard,andrewnoble@example.net,71,Columbus,421.5
+Earl Smith,rebeccamorse@example.net,59,Dallas,203.52
+Matthew Sanders,sellison@example.org,37,Denver,294.16
+Raymond Howard,laurenayala@example.com,29,Chicago,397.88
+Michael Howard,jonesbrandon@example.com,26,Fort Worth,345.75
+Mark Castillo,johnsonsarah@example.com,24,San Diego,145.25
+Jordan Moore,restrada@example.com,73,Austin,291.92
+Pamela Ortiz,hollymitchell@example.org,45,San Antonio,480.92
+Danielle Garcia,tneal@example.org,18,Philadelphia,318.85
+Stephanie Zimmerman,shellywebb@example.net,74,Philadelphia,260.55
+Austin Ellison MD,kbecker@example.org,40,New York,190.9
+Robert Lee,ujohnson@example.com,48,Chicago,433.19
+Melissa Miller,njohnson@example.org,25,Seattle,55.35
+Jennifer Cox,danielfarmer@example.net,80,Dallas,369.17
+Patricia Jones,lucasbrittany@example.com,48,Austin,24.44
+Collin Smith,andrea86@example.com,66,Denver,150.96
+Amber Harris,tinakoch@example.org,42,Phoenix,45.17
+Philip Powers,moniquecontreras@example.net,60,New York,465.95
+Jodi Larson,kevin02@example.com,72,Denver,475.93
+Sonya Larson,xgreen@example.org,56,San Francisco,222.84
+Chelsea Swanson,rodriguezcaitlin@example.net,26,San Jose,385.32
+Kelly Davidson,nancy30@example.net,56,San Francisco,118.15
+Jill Barrett,matthewfitzgerald@example.org,25,Charlotte,182.87
+Nathan Shannon,chebert@example.com,19,Austin,71.73
+Wayne Houston,mary79@example.com,45,Philadelphia,179.23
+Ronnie Simmons,alexander02@example.net,40,Austin,427.67
+Crystal Malone,stacy62@example.org,45,Los Angeles,146.62
+Jesse Kane,christine71@example.org,76,New York,394.58
+Thomas Thomas,carl85@example.org,42,Los Angeles,18.36
+Ronald Mcneil,shahdavid@example.org,54,Washington,56.49
+Thomas Esparza,jluna@example.com,22,Philadelphia,126.14
+Ronnie Martinez,michellecopeland@example.com,30,Jacksonville,35.3
+Corey Williams,dunntyler@example.com,18,Indianapolis,402.84
+Adam Lee,bonniedavenport@example.org,56,Denver,385.01
+Brian Heath,tanner92@example.com,50,Washington,417.07
+Larry Santana,christinerandolph@example.com,27,Charlotte,201.97
+Richard Boyd,srose@example.net,29,San Diego,386.96
+Sara Gibson,garrettbarton@example.org,33,Jacksonville,295.63
+Brian Ross,smcmahon@example.org,53,Washington,472.89
+Richard Patterson,jamesbowen@example.org,20,Jacksonville,404.03
+David Vasquez,fdelgado@example.com,70,Denver,227.81
+Patricia Ray,melissasmith@example.org,28,Indianapolis,104.04
+Dennis Dorsey,carlosvaldez@example.net,28,Fort Worth,429.28
+Christopher Dawson,wnelson@example.com,21,Indianapolis,442.78
+Jeffrey Foster,lrodriguez@example.org,28,Philadelphia,107.38
+Mason Guzman,isutton@example.net,20,Seattle,104.9
+Terry Williams,bradleyshaffer@example.net,63,Fort Worth,174.86
+Darlene Williamson,shelley90@example.com,31,Phoenix,114.85
+Glen Reynolds,cmorrison@example.org,33,San Diego,266.06
+Lynn Lester,fsilva@example.com,38,Austin,90.1
+Greg Sullivan,tiffany00@example.net,47,Seattle,284.23
+Elizabeth Kemp,jackwhite@example.org,60,Dallas,108.62
+David May,cole21@example.org,56,Houston,136.11
+Jennifer Miranda,jodythomas@example.net,56,Phoenix,234.12
+Luis Boyd,davidsavage@example.net,55,Philadelphia,250.68
+Duane Aguilar,jcontreras@example.org,49,Indianapolis,336.14
+Kimberly Henry,lesliewood@example.com,47,San Francisco,437.75
+Jordan Black,paulahicks@example.net,75,Indianapolis,224.79
+Kyle Davis,josephallen@example.net,34,Phoenix,256.68
+James Schneider,colleen19@example.org,61,Denver,112.49
+Amanda Andrews,diana31@example.net,72,San Antonio,147.46
+Dustin Hunter MD,wsanchez@example.com,46,Washington,329.45
+Nicole Mason,allenshawn@example.net,36,Phoenix,266.48
+Jessica Freeman,john90@example.org,25,San Jose,135.21
+Andrew Berry,christina86@example.org,46,Charlotte,27.84
+Kent Miller,ronaldbailey@example.net,71,Jacksonville,400.85
+Alejandra Gould,ibell@example.net,19,Indianapolis,170.8
+Cynthia Gray,rebecca38@example.net,70,Seattle,435.48
+Elizabeth Fowler,gary17@example.com,67,Dallas,197.0
+Lisa Duncan,steven23@example.com,66,Denver,101.27
+Charles Martinez,monicawilliams@example.net,77,Denver,24.34
+Melissa Odom,jeremiahchristian@example.com,55,Charlotte,66.11
+Ashley Montgomery,kellywalker@example.net,79,San Antonio,268.66
+Bill Williams,vmiller@example.com,55,Denver,413.14
+Dakota Morales,timothyharper@example.org,24,Seattle,188.31
+Michael Dalton,blopez@example.com,63,Washington,350.87
+Anna Benjamin,jay15@example.net,68,Fort Worth,284.04
+Michael Schwartz,charles74@example.org,45,Dallas,67.99
+Christopher Gonzalez,quinnpamela@example.org,71,Phoenix,42.82
+David Walters,debra43@example.com,40,New York,233.37
+Barry Hoover,lucasamy@example.org,35,San Jose,189.26
+Taylor Grant,rlove@example.net,65,Indianapolis,89.63
+Scott Hudson,pjones@example.net,34,Indianapolis,443.06
+Christopher Sosa,chenjulia@example.com,24,Jacksonville,401.94
+Ronnie Powell,fsantos@example.com,72,Los Angeles,104.4
+Erin Wilkinson,hnguyen@example.net,78,Phoenix,471.85
+Charles Ferguson,christine95@example.net,43,Washington,31.5
+Anthony Whitaker,cochrantiffany@example.org,32,New York,34.66
+Todd Smith,robert00@example.com,78,Jacksonville,55.93
+Jason Gardner,mcgrathmary@example.com,60,Los Angeles,370.21
+Kenneth Reid,rogerjenkins@example.org,30,Fort Worth,395.46
+Brian Lindsey,deannakidd@example.org,80,Phoenix,332.69
+Nancy Gordon,kristen69@example.com,60,San Diego,410.52
+Thomas Vaughn,keithdennis@example.net,78,Houston,42.3
+David Nelson,wesleyyoung@example.org,59,Chicago,477.67
+Joann Odonnell,vwilliams@example.org,21,Columbus,376.18
+Amber Murphy,uhendricks@example.net,76,Charlotte,369.4
+John Simpson,jennafisher@example.org,58,Denver,462.82
+Kelly Carr,joseph86@example.org,77,Charlotte,79.03
+Briana Mayo,lisa57@example.org,44,Phoenix,265.34
+Carrie Bartlett,bmcdonald@example.org,51,Chicago,173.01
+Amanda Guzman,carlsonjonathan@example.net,69,San Diego,246.0
+Mary Garcia,heatherevans@example.net,58,Houston,363.38
+Chad Clark,msilva@example.net,57,Jacksonville,202.72
+Tracy Norman,basstracy@example.net,52,Dallas,107.54
+Abigail Valdez,anthonyjones@example.com,27,Los Angeles,249.63
+Adam Scott,veronica14@example.org,65,New York,431.16
+Kathleen Stokes,ellistara@example.org,71,San Jose,255.29
+James Hall,smithjessica@example.org,30,Dallas,58.02
+Sherry Rogers,castromichael@example.org,21,Jacksonville,242.15
+Teresa Ryan,johnallen@example.org,66,Philadelphia,355.24
+Alyssa Bartlett,harrisjason@example.org,67,San Francisco,316.08
+Kylie Brown,cgarcia@example.org,74,Austin,100.42
+Alex Richmond,gwashington@example.org,65,Dallas,443.92
+Regina Howard,matthew18@example.com,45,Chicago,169.35
+Steven Miller,kaylamcmahon@example.org,34,San Jose,329.82
+David Hansen,vcurtis@example.net,54,Charlotte,494.45
+Steven Wade,aaron26@example.org,59,San Francisco,452.58
+Ellen Mcdonald,zwatson@example.org,27,Fort Worth,201.09
+Stephanie Knox,judyrobinson@example.org,76,Charlotte,373.13
+Gary Singh,georgesanders@example.org,63,Austin,449.54
+Michael Olson,brooksveronica@example.com,31,San Jose,302.76
+Mindy Morris,qnelson@example.org,77,San Diego,141.48
+Allen Smith,westaaron@example.com,39,San Diego,486.43
+Lindsay Woods,phillip26@example.net,25,San Francisco,228.57
+Renee Nunez,elopez@example.com,51,Philadelphia,496.93
+Colleen Wilson,ulogan@example.net,68,Charlotte,99.54
+Jeremy Kennedy,stevenreynolds@example.org,26,Chicago,174.19
+Jacqueline Black,zdoyle@example.org,42,Phoenix,379.61
+Sara Smith,jasmine96@example.com,62,Washington,149.25
+Austin Wright,ilopez@example.org,61,Dallas,449.79
+Todd Black,hallamber@example.net,58,Indianapolis,397.87
+Briana Espinoza,destinymclean@example.org,19,New York,424.05
+Christopher Russell,graylisa@example.net,62,Austin,408.95
+Jonathan Nguyen,delgadolaura@example.com,51,Austin,123.55
+Tina Bishop,zdawson@example.com,65,Indianapolis,45.72
+Shane Farrell,michael67@example.org,45,San Francisco,464.2
+Suzanne Brown,epineda@example.net,26,San Diego,374.17
+Douglas Ortiz,jrush@example.com,78,Washington,329.06
+Tim Castillo,sbrown@example.org,31,Phoenix,11.61
+Cameron Williams,davidsonmichael@example.com,77,San Francisco,280.43
+Tony Woods,hahnann@example.org,47,San Antonio,268.85
+Benjamin Friedman,jenniferlopez@example.net,58,Jacksonville,204.0
+Donna Boone,crawfordnicole@example.net,73,New York,375.92
+Mark Simmons,zdorsey@example.net,56,Indianapolis,403.06
+Charles Reynolds,dwright@example.net,76,Los Angeles,279.42
+Ricky Payne,fwarren@example.net,80,Indianapolis,152.01
+Jill Parker,ndouglas@example.com,78,Indianapolis,86.93
+Melissa Woods,vconrad@example.org,33,Houston,56.97
+Michael Jones,smithkristin@example.org,59,Fort Worth,469.8
+Mark Mitchell,veronicarowe@example.com,39,Phoenix,496.0
+Tami Martin,sstout@example.net,68,Seattle,203.94
+Brian Kelly,jameschambers@example.net,25,San Francisco,474.84
+William Sandoval,lauren37@example.org,77,Fort Worth,247.62
+Caitlin Wallace,williamsonnatalie@example.com,63,Chicago,492.18
+Nathan Sullivan,pattonjason@example.org,59,Philadelphia,246.45
+Daniel Butler,james29@example.com,59,San Antonio,405.37
+Stephen Lewis,david99@example.com,47,Jacksonville,438.37
+John Salinas,beltranpatricia@example.com,31,Houston,84.49
+Brenda Andrade,martineztravis@example.net,50,Charlotte,147.82
+Walter Duran,lauren95@example.org,52,New York,62.33
+Randall Diaz,grogers@example.com,30,Dallas,46.69
+Megan Ingram,marmstrong@example.com,53,Indianapolis,462.62
+Kent Clark,johnwheeler@example.net,79,San Antonio,390.37
+Tony Hansen,yjohnson@example.org,76,Jacksonville,379.32
+Frank Roberts,mackkayla@example.net,32,San Jose,83.69
+Alexa Jones,vlopez@example.org,71,Dallas,283.19
+Billy Mills,ojoseph@example.org,47,Philadelphia,343.32
+Tracy Williams,cobbmanuel@example.net,70,San Jose,345.1
+Brooke Perez,mavery@example.net,36,San Antonio,344.75
+Calvin Webb,bankscindy@example.org,22,Dallas,70.68
+Mary Sutton,smithjacqueline@example.org,25,Washington,434.51
+Sarah Miller,umiller@example.com,54,Phoenix,403.83
+Courtney Wilkins,amycarter@example.net,62,Washington,358.56
+Kelly Kramer,rwashington@example.com,42,San Antonio,413.41
+Scott Vasquez,kphillips@example.com,80,Columbus,197.64
+Shannon Lawrence,frankshaw@example.net,31,Phoenix,386.5
+Alicia Kennedy,obenitez@example.com,27,Indianapolis,462.37
+Dr. Laura Burton,qshort@example.org,42,Austin,16.84
+Tracy Reeves,melissa54@example.net,35,Dallas,119.29
+Michelle Freeman,igardner@example.com,32,Indianapolis,408.37
+Melissa Brown,brownangela@example.com,28,Houston,251.87
+Anna Rice,qgriffin@example.com,77,Phoenix,467.26
+Mark Rangel,melaniebutler@example.com,63,Fort Worth,112.12
+Jackie Yang,tommyweaver@example.net,71,San Antonio,85.01
+Cynthia Garcia,parkersarah@example.net,55,San Diego,26.27
+Matthew Gamble,douglas79@example.com,76,Fort Worth,152.47
+Jonathan Rangel,meghanquinn@example.com,60,Columbus,40.33
+Morgan Walker,brenda87@example.com,78,Jacksonville,463.82
+Kelly Zimmerman,kreynolds@example.com,64,Austin,145.26
+Nancy Hunter,nguyenrichard@example.com,69,San Jose,470.82
+Jasmine Sanchez,spencer39@example.net,53,San Francisco,359.46
+Lisa Armstrong,milesmary@example.net,29,Indianapolis,329.72
+John Freeman,jason73@example.net,35,San Antonio,441.91
+Charles Suarez,rhodesbrandon@example.org,23,San Jose,169.65
+Elizabeth Hernandez,richardsonheather@example.org,74,Washington,117.0
+Gina Powell,cmcguire@example.com,63,Jacksonville,475.37
+Carla Davis,michael46@example.com,67,Denver,429.68
+Ann Torres,jfields@example.com,75,San Jose,114.49
+Julia Garcia,uross@example.org,19,Fort Worth,326.74
+April Fischer,bkane@example.net,56,Indianapolis,382.97
+Alexis Colon,jenniferwelch@example.com,49,Indianapolis,193.9
+Richard Stout DVM,graceperez@example.net,36,Phoenix,454.01
+Shawn Kline,carrkelly@example.org,54,Charlotte,136.81
+Henry Roy,sylvianixon@example.net,24,New York,77.83
+Joseph Mcmahon,georgefranco@example.org,39,San Antonio,362.55
+Julia Jensen,davidsmith@example.com,52,Los Angeles,73.74
+Jeremiah Trevino,kimberly30@example.com,63,Indianapolis,190.63
+John Bowman,carpentermichael@example.net,40,San Jose,21.56
+Matthew Smith,greertimothy@example.com,69,Chicago,415.79
+Brandi Campbell,fieldsheather@example.com,41,Indianapolis,304.42
+James Farrell,robert82@example.com,75,Fort Worth,444.51
+Douglas Hendricks,daniel14@example.com,23,Indianapolis,394.05
+Kevin Jimenez,mahoneynicole@example.net,28,San Antonio,141.2
+Thomas Rush,gregoryroberts@example.net,60,Charlotte,30.46
+Albert Haley,kevin06@example.org,65,Seattle,168.48
+Carrie Kane,alvaradoscott@example.org,71,San Antonio,495.38
+Barbara Payne,timothy80@example.org,28,San Jose,463.67
+Christopher Hartman,dennis13@example.com,51,Chicago,374.38
+Sabrina Jones,matthew56@example.net,18,Chicago,97.95
+Justin Gordon,kimberly57@example.net,22,San Antonio,245.55
+Gordon Castaneda,tracey17@example.org,63,Jacksonville,440.15
+Jonathan Johnson,jgonzalez@example.com,49,San Antonio,167.27
+Shawn Myers,rcook@example.net,37,Washington,173.73
+Amy Booth,stephanie70@example.com,54,Chicago,64.18
+Craig Duncan,patrick46@example.org,30,Indianapolis,202.65
+Kylie Alvarez,hineslori@example.com,62,Austin,354.64
+Rebecca Palmer,asexton@example.org,48,San Antonio,349.26
+Jennifer Frost,thompsonpamela@example.net,29,Jacksonville,486.17
+David Flores,cookejennifer@example.net,39,Dallas,447.75
+Jonathan Kelley,karlwolfe@example.com,51,Phoenix,104.3
+Kathleen Diaz,sabrina23@example.org,54,Philadelphia,79.19
+Carla Brewer,markwatson@example.org,53,Philadelphia,76.71
+Rachel Martin,lsimon@example.com,78,San Francisco,35.94
+Timothy Weeks,vcook@example.org,42,Jacksonville,309.09
+Robert Jacobs,mark35@example.com,73,Denver,76.63
+Elizabeth Walsh,torrescheryl@example.net,59,San Antonio,157.3
+Michelle Martinez,alicia48@example.org,61,Dallas,230.64
+Julia Rogers,colson@example.org,56,New York,234.63
+Andrew Richardson,rhondawilkins@example.org,38,Austin,76.31
+Brad Burton MD,amybell@example.net,67,Washington,374.88
+Robert Rogers,hornemichele@example.org,27,Chicago,442.0
+Frank Dudley,harperthomas@example.org,46,Charlotte,269.69
+Brittney Rasmussen,leebrianna@example.org,53,San Francisco,38.6
+Jordan Scott,autumnmiller@example.com,73,San Francisco,158.81
+Phyllis Spencer,hannah06@example.com,48,New York,285.9
+Anna Mcclure,ilewis@example.net,75,San Francisco,108.79
+Alexander Meyer,erollins@example.org,37,Austin,352.97
+James Clarke,kingkayla@example.org,47,Jacksonville,298.88
+Antonio Erickson,adam55@example.com,44,Los Angeles,202.98
+Christopher Burch,vanessamorris@example.net,52,San Antonio,268.22
+Sue Price,wilsonmichael@example.net,27,Denver,306.66
+William Jones DDS,duartevincent@example.net,31,New York,327.31
+Kristen Murillo,parkselizabeth@example.net,63,San Diego,41.6
+Christopher Morrow,stacy14@example.net,45,Jacksonville,31.67
+Gabriela Berry,barronstacy@example.org,58,Houston,307.1
+Katie Thompson,chaneysandra@example.org,40,San Diego,315.94
+Paul Mccall,ortizalexandra@example.org,67,Columbus,17.36
+Tyler Monroe,sanchezvirginia@example.net,57,San Jose,346.45
+Daniel Fox,sbauer@example.net,78,Dallas,83.28
+Meghan Torres,mosesregina@example.org,69,Houston,169.76
+Michael Mcintosh,calvin22@example.net,52,Philadelphia,257.89
+Michael Brown,davisrobin@example.com,57,Washington,87.93
+Dominique Miller,patrickpeters@example.com,74,Seattle,38.91
+Sandy Kirk,craig15@example.com,33,San Jose,438.39
+Joseph Buchanan,daniel49@example.org,76,Charlotte,308.23
+Jill Kelly,ianderson@example.net,33,New York,366.42
+David King,johnclements@example.com,67,San Francisco,486.01
+Jennifer Harris,harrisaaron@example.com,71,Philadelphia,465.27
+Scott Cruz,meganjohnson@example.net,30,Seattle,202.4
+Megan Cruz,ijones@example.com,80,Columbus,116.79
+Allison Oliver,jamesthompson@example.org,54,San Antonio,269.19
+Alice Herring,patricia64@example.net,44,Fort Worth,137.66
+Sabrina Duarte PhD,ledwards@example.com,78,Charlotte,159.48
+Carrie Pope,hahntheresa@example.org,50,Denver,365.33
+Veronica Castro,fwise@example.org,28,Houston,465.78
+Shane Wilson,patricksparks@example.net,67,Seattle,321.17
+Rachel Ortiz,alexanderlisa@example.org,35,Fort Worth,160.61
+Patrick Johnson,gutierrezchristie@example.net,45,San Antonio,370.06
+Kevin Thomas,chavezmackenzie@example.org,28,Seattle,48.88
+Charles Huynh,james46@example.org,56,Chicago,390.07
+Eduardo Edwards,stephanie91@example.net,59,Washington,11.86
+Robert Alvarez,colemanthomas@example.com,78,Houston,38.95
+Edward Rice,kara01@example.com,19,Washington,54.15
+Emily Guzman,iboone@example.com,67,Houston,494.58
+Paul Vincent,jessicaturner@example.org,55,Columbus,375.22
+Nathan Gomez,baileydonna@example.org,78,Jacksonville,443.81
+Claire Hopkins,claudiaharper@example.com,66,Washington,255.98
+Mike Wilson,donaldwatson@example.org,44,Washington,313.82
+Mason Taylor,mrussell@example.net,25,Los Angeles,344.34
+Todd Mcknight,qnewman@example.net,49,New York,44.01
+Dr. Jeffrey Scott,asmith@example.com,40,Chicago,120.14
+Douglas Meadows,barrettchristina@example.net,27,Washington,416.23
+Robert Woods,deniseford@example.com,47,Denver,367.99
+Crystal Douglas,riverakevin@example.com,52,Houston,228.47
+Kevin Orozco,katherinefarley@example.org,38,Dallas,348.82
+Elizabeth English,michaelthompson@example.com,33,Phoenix,393.51
+Christopher Hernandez,ericaandrade@example.com,28,Seattle,74.74
+James Matthews,ysoto@example.net,79,Denver,281.19
+Karen Hernandez,sandersjohn@example.org,53,San Antonio,234.78
+Connor Buck,danielmaynard@example.com,34,Denver,36.17
+John Glover,robertrodriguez@example.org,67,Charlotte,52.74
+Jonathan Patel,mramirez@example.net,52,Denver,440.88
+Lisa Pearson,patrick60@example.org,48,Charlotte,447.87
+Kristen Carroll,loriwiley@example.net,61,Washington,357.76
+Duane Anderson,livingstoncharles@example.com,69,Indianapolis,40.97
+Austin Hickman,cindypoole@example.org,50,Austin,414.86
+Clinton Finley,gabrielobrien@example.net,70,Denver,342.36
+Mary Holder,frenchjohn@example.org,58,Washington,76.36
+Eric Alvarez,mccartysierra@example.com,37,Washington,492.04
+Jackson Rose,jefftodd@example.org,22,New York,266.69
+Adam Lewis,danielle89@example.net,41,Seattle,467.99
+Edward Bowen,nhunter@example.org,37,Phoenix,390.97
+Christopher Oconnell,davidbuckley@example.net,76,Dallas,96.17
+Cody Smith,lisa24@example.com,46,Washington,333.83
+Randy Lee,michele30@example.org,43,San Antonio,91.77
+Judy Howe,sherrywilson@example.org,36,Denver,141.42
+Justin Patterson,francisbryan@example.net,72,Washington,470.64
+Matthew Ochoa,khayden@example.com,42,Philadelphia,431.07
+Christopher Cummings,slee@example.com,34,Jacksonville,254.56
+Angel Fitzgerald,mark71@example.net,46,San Antonio,218.61
+Wendy Ali,mcknightchristopher@example.net,38,Indianapolis,170.92
+Adam Porter,larrymcdonald@example.net,69,Dallas,265.82
+Tiffany Zavala,rjensen@example.org,25,Indianapolis,487.27
+Gabriella Macdonald,smithfaith@example.com,61,San Francisco,214.44
+Rodney Maxwell,charleszimmerman@example.net,77,San Diego,359.34
+Marcus Cochran,rebecca64@example.org,65,San Diego,221.6
+Christopher Aguilar,jrobinson@example.org,75,San Antonio,345.42
+Julie Montoya,daniel03@example.com,31,Seattle,311.65
+Paul Randall,georgeduran@example.com,59,Indianapolis,64.1
+William Kelly,robert45@example.net,33,San Francisco,106.1
+Jose Daniels,steven23@example.net,37,Seattle,59.5
+Michelle Mckee,leonardtracy@example.com,18,Fort Worth,84.36
+Elizabeth Atkinson,tinaramos@example.net,57,Dallas,296.48
+Jared Holt,ronald43@example.net,36,Chicago,437.19
+Sierra White,clayton03@example.net,62,Los Angeles,356.16
+Jared Osborn,knelson@example.org,32,Denver,449.96
+Suzanne Wilson,emilycarpenter@example.org,37,San Antonio,218.32
+Shirley Galvan,alan76@example.com,60,New York,132.38
+Dawn Griffith,misty66@example.org,39,Indianapolis,35.41
+David Sandoval,bennettsean@example.com,56,Dallas,75.07
+Douglas Torres,jbeard@example.com,29,Charlotte,26.12
+Robert Williams,qgeorge@example.org,55,San Francisco,331.77
+Angela Knight,cheryl38@example.net,39,Fort Worth,344.19
+Kelsey Roberts,hellis@example.com,32,Los Angeles,161.96
+Mr. Gabriel Ford,pruittkristina@example.net,72,San Jose,165.83
+Sheila Clark,katiemathews@example.org,60,San Diego,137.27
+Tyler Gray,kellyfisher@example.org,47,Indianapolis,264.52
+Joshua Cortez,jerry68@example.org,48,Washington,71.76
+Timothy Kent,grodriguez@example.org,19,Washington,394.55
+Lindsey Jones,westadrienne@example.org,68,San Francisco,220.74
+Paul Thomas,brandon55@example.org,48,Dallas,229.28
+Chelsey Johnson,hernandezjoseph@example.org,68,New York,470.37
+Michael Moreno,johnsoncynthia@example.org,37,Seattle,196.06
+Corey Lee,hklein@example.net,38,Houston,170.76
+Jeffrey Patel,barbarastokes@example.com,28,Washington,349.07
+Brandy Jenkins,reyeswalter@example.com,24,Fort Worth,465.41
+Tim Weber,brandon17@example.net,67,Houston,391.31
+Joseph Boyer,ann93@example.com,74,Indianapolis,57.62
+Jessica Payne,kimberly92@example.net,55,Columbus,428.18
+Charles Nolan,jenniferdavenport@example.org,58,Jacksonville,159.23
+Maria Rowland,turneramy@example.net,21,San Antonio,494.18
+Phyllis Miller,kristina39@example.com,54,Charlotte,67.91
+Thomas Roberson,zjohnson@example.net,59,New York,84.01
+Larry Garcia,rebecca65@example.com,79,San Jose,222.34
+Stephanie Turner,william51@example.com,23,Houston,377.27
+Ashley Miller,alvaradolawrence@example.com,72,Columbus,377.63
+Janet Hardin,hurstlinda@example.org,54,Washington,247.92
+Nicholas Beard,antonio59@example.com,69,Dallas,246.03
+Kenneth Quinn,ydavis@example.org,21,Chicago,359.18
+Peter Thomas,vicki64@example.com,51,San Francisco,86.3
+Sarah Ryan,rileymatthew@example.net,36,Chicago,114.41
+Meghan Lester,stephanie26@example.org,20,Phoenix,228.52
+Daniel Logan,sheppardrichard@example.org,34,Houston,317.03
+Nicole Rivas,lauracox@example.com,27,Chicago,462.65
+Casey Frazier,matthewschultz@example.com,37,Philadelphia,105.57
+Stacy Kennedy,qmiranda@example.com,51,San Diego,183.44
+Gregory Rogers,ywilson@example.com,28,Fort Worth,97.35
+Dawn Jones,evelyn30@example.org,32,San Antonio,231.91
+Amanda Ho,joyce70@example.net,39,New York,423.31
+Erica Clark,miguel50@example.com,24,Chicago,75.56
+Gary Jackson,jalexander@example.org,53,Houston,63.09
+Michael Alvarez,rbeck@example.com,56,Jacksonville,273.62
+Reginald Gonzalez,ywalker@example.net,47,Columbus,74.38
+Terry Wells,nhill@example.net,50,Phoenix,171.43
+Kevin Smith,fostermelissa@example.net,52,Jacksonville,100.28
+Jamie Hunt,hesssuzanne@example.net,32,Fort Worth,425.28
+Emma Dalton,carlaleblanc@example.net,60,Jacksonville,299.93
+Rodney Garcia,robertsonjohn@example.com,75,Denver,77.82
+James Huffman,adavis@example.org,27,Dallas,152.4
+Frederick Rodriguez,wesley73@example.org,78,Columbus,482.09
+Ashley Johnson,harperelizabeth@example.net,72,Washington,143.24
+Ralph Martinez,xwashington@example.net,52,Columbus,488.42
+Joe West,adam33@example.com,65,Philadelphia,290.75
+Kaitlyn Meyer,mjackson@example.com,57,Philadelphia,410.87
+Eric Dunn,carpentercharles@example.net,23,Indianapolis,284.38
+William White,knightashley@example.com,28,Jacksonville,16.29
+John Palmer,hbooth@example.net,57,Chicago,201.61
+Billy Roberts,bmalone@example.com,27,San Diego,106.92
+Veronica Clark,ygibson@example.net,71,Houston,243.49
+Lisa Flores,chadhart@example.net,31,Charlotte,132.86
+Alisha Contreras,qschmidt@example.com,34,Chicago,133.62
+Molly Grant,matthewsricky@example.org,30,Washington,99.17
+Theresa Anderson,ewilliams@example.com,72,San Antonio,493.36
+Dean Vargas,uhenderson@example.com,79,Chicago,59.27
+Deborah Anderson,elizabethgutierrez@example.net,60,New York,381.36
+Nicholas Wright,ystone@example.com,48,Indianapolis,250.88
+Timothy Anderson,hinesmeagan@example.org,60,Phoenix,93.62
+Timothy Garza,lemary@example.net,52,Columbus,325.36
+Mary Berg,fernandezrobert@example.org,40,Dallas,269.35
+Erika Hernandez,kirbybrian@example.net,54,Philadelphia,390.36
+Theresa Williams,greenjamie@example.net,68,Chicago,422.23
+Crystal Smith,jerry53@example.com,71,Houston,114.31
+Kenneth Smith,millermonique@example.org,27,Philadelphia,220.27
+Tamara Robinson,weeksamber@example.net,74,Dallas,172.31
+Mark Weeks,martinezscott@example.org,64,Indianapolis,203.65
+Latoya Parrish,thompsonjames@example.net,54,San Diego,233.65
+Madison Campos,millsvictor@example.net,21,Columbus,449.39
+Alexander Singleton,ystein@example.com,52,Washington,377.83
+Kevin Morris,chelseajones@example.org,63,San Diego,259.1
+Mark Phillips,zrobinson@example.com,68,Seattle,183.44
+Tina Robbins,alijoseph@example.org,47,Philadelphia,400.13
+Carlos Goodman,brownchelsea@example.org,68,Seattle,73.75
+Gwendolyn Butler,matthewbooker@example.org,78,San Antonio,146.29
+Tyler Rodriguez,whughes@example.com,50,Jacksonville,499.59
+Jacqueline Valencia,nicolesmith@example.com,23,Dallas,166.7
+Michelle Trujillo,stevenarroyo@example.com,55,Chicago,271.91
+Brian Dunlap,ashley41@example.org,38,Charlotte,32.72
+Melanie Gonzalez,briana53@example.net,28,San Jose,337.39
+Maria Mitchell,david72@example.net,72,Los Angeles,309.55
+Rodney Price,harpercarol@example.net,26,Seattle,159.07
+Ethan Patel,lacey97@example.com,45,Denver,489.18
+George Sanders,jonathanpeters@example.org,49,Denver,100.36
+Morgan Gonzales,henryparker@example.net,45,Charlotte,474.02
+Carl Stanton,christopherford@example.org,49,Phoenix,266.96
+Jacob Burton,blankenshipheather@example.net,73,New York,301.29
+Allen Lane,singhdavid@example.org,46,Fort Worth,23.54
+Terri Lee,michellejacobs@example.org,55,Los Angeles,254.53
+Jessica Murray,mitchelldavid@example.org,56,Fort Worth,433.96
+Johnny Reynolds,shirley26@example.com,18,Houston,58.97
+Rachel Hernandez,warrenmelissa@example.com,44,Denver,297.49
+Heather Anderson,gbryant@example.org,26,Austin,241.74
+Dr. Miguel Sullivan II,joannarivera@example.com,54,Austin,257.82
+Kelsey Villanueva,boydian@example.com,29,New York,107.31
+Mr. Ryan Knight,matthewward@example.org,52,Austin,71.13
+Katherine Ruiz,paula30@example.net,61,New York,362.68
+Olivia Bond,robert22@example.org,62,Denver,325.0
+Courtney Trevino,oharris@example.com,41,San Jose,11.59
+Rebecca Diaz,kentmolina@example.net,38,Columbus,143.03
+Melissa Hinton,martinezashley@example.com,56,San Francisco,13.17
+Jason Edwards,hsmith@example.com,74,Dallas,455.44
+Kenneth Espinoza,robert17@example.com,60,Los Angeles,467.77
+Julian James,nataliewilliams@example.com,72,Washington,293.55
+Jose Williams,jimmyhendrix@example.net,28,San Diego,260.89
+Joshua Thomas,jamie38@example.org,27,Jacksonville,39.64
+Latoya Avery,williamcarrillo@example.com,24,Indianapolis,282.86
+Crystal Cruz,michael98@example.net,27,San Diego,102.39
+Edward Hale,nolson@example.net,19,Charlotte,158.84
+Allison Ortiz,andreawells@example.com,64,New York,44.89
+Lauren Lane,ronaldpaul@example.org,56,Jacksonville,284.77
+Gregory Clark,mmann@example.com,62,Jacksonville,156.96
+Ashley Bell,nicole63@example.org,75,Dallas,337.55
+Connie Welch,smithmichael@example.org,28,Phoenix,401.19
+Benjamin Munoz,dominic17@example.net,23,San Antonio,331.3
+Ms. Debra Allen,samanthafarrell@example.net,59,Chicago,125.21
+Daniel Mitchell,katherineanderson@example.com,61,Houston,398.65
+Catherine Ponce,mikayla24@example.com,33,Austin,174.48
+Jessica Gibbs,snyderdavid@example.org,47,Houston,21.21
+Jennifer Kramer,woneal@example.org,48,Chicago,193.97
+Jordan Padilla,jennifer55@example.com,53,San Diego,272.18
+Nicole Smith,grush@example.org,56,Jacksonville,146.45
+Gregg Roberts,gerald69@example.com,29,Phoenix,273.3
+Logan Harris,erik15@example.com,53,Seattle,119.57
+Nicholas Mcdonald,steven87@example.com,61,Columbus,434.29
+Robert Mathis,nelsongary@example.org,20,Austin,475.54
+Robin Anderson,soliver@example.net,19,Denver,248.27
+Cynthia Hunt,richnicole@example.org,77,Philadelphia,178.31
+Kathleen Wilson,brandon02@example.net,27,Fort Worth,30.93
+Christopher Sanchez,holmeskenneth@example.com,50,Seattle,360.24
+Jennifer Barker,elizabethwilliams@example.net,74,Phoenix,155.59
+Michele Cox,cameronkim@example.net,49,Phoenix,283.84
+Jamie Davidson,woodardkathryn@example.com,47,Philadelphia,13.32
+Adam Cook,matthewharvey@example.net,58,Jacksonville,395.42
+Ann Ferguson,hamiltonjesse@example.org,39,Indianapolis,142.92
+Kathryn Hammond,joshua08@example.org,43,Los Angeles,321.12
+Zachary Miranda,michaelacarpenter@example.org,69,Chicago,473.54
+Jonathan Stout,khiggins@example.com,31,Washington,202.61
+Sandra Jackson,angelaburch@example.net,22,Washington,98.61
+Travis Harris,jrussell@example.org,54,Seattle,108.13
+Angela Norman,normananthony@example.com,54,Columbus,177.31
+Brendan Smith,martin70@example.org,55,Fort Worth,482.62
+Jennifer Lewis,nmcdaniel@example.com,33,San Diego,442.79
+Brandon Smith,mary49@example.net,66,San Antonio,27.37
+Alexis Barton,franklinjennifer@example.com,60,San Jose,156.01
+Dennis Johnson,laurahughes@example.com,37,Fort Worth,107.81
+Veronica Jackson,robertsmorgan@example.com,64,Philadelphia,260.54
+Barbara Vasquez,shannontracy@example.org,58,Charlotte,388.93
+Shane Miller,xdiaz@example.com,74,Seattle,154.96
+Timothy Cooper,adamwright@example.org,36,Jacksonville,322.45
+Joseph Johnson,kimberly04@example.com,39,Houston,156.5
+Nancy Henderson,christinaharrison@example.org,70,Indianapolis,214.29
+Ronald Daniels,brian78@example.net,20,Chicago,479.29
+Kelly Johnston,robertsalinas@example.org,27,San Diego,375.95
+Angela Rose,mhall@example.net,42,Phoenix,185.44
+Kelly Foster,ratkins@example.org,43,Columbus,466.33
+Anthony Freeman,robert60@example.net,68,Chicago,232.98
+Jeremiah Blanchard,shannontara@example.net,49,Dallas,375.68
+Ryan Schultz,debra87@example.org,58,Philadelphia,85.38
+Lori Beard,nicole70@example.org,67,Phoenix,434.43
+Charles Donaldson,ejensen@example.org,28,San Francisco,90.87
+Sharon Johnson,aprilgregory@example.net,41,Columbus,348.53
+Sandra Davis,huertalisa@example.net,78,Denver,464.36
+Eileen Morrison,michael32@example.com,18,Washington,244.9
+Nancy Rivera,clarkvictor@example.com,78,Seattle,426.47
+Wendy Love,sarahgarcia@example.org,48,San Francisco,110.27
+Curtis Martinez,kimberly93@example.net,63,Columbus,98.02
+Isaac Wilson,mcoleman@example.net,35,Seattle,296.35
+Jason Gray,leahzamora@example.org,47,Charlotte,11.17
+Michael Barnes,matthew19@example.org,48,Fort Worth,33.31
+Jacob Mora,michaeljohnson@example.net,68,Chicago,441.82
+Julia George,michaeldavis@example.net,77,Jacksonville,317.34
+Arthur Lee,wdiaz@example.com,58,Austin,185.27
+Wendy Ramsey,richarddavis@example.net,60,New York,69.99
+Tina Davis,linda91@example.org,42,San Francisco,308.69
+Lauren Hart,vasquezdanny@example.com,21,Jacksonville,150.6
+Janice Smith,kellerdavid@example.net,69,Phoenix,67.19
+Lisa Romero,ycantu@example.org,40,Austin,267.55
+John Shields,hwalters@example.org,57,Los Angeles,328.33
+Julie French,matthew60@example.org,21,San Jose,34.23
+Aaron Johnson,sheilabullock@example.com,73,Denver,132.67
+Abigail Castillo,natashawebb@example.net,19,Seattle,495.96
+David Edwards,hmorgan@example.net,54,Phoenix,368.15
+Austin Anderson,lararobert@example.org,58,Jacksonville,41.25
+William Ward,barajasemily@example.org,28,Chicago,52.87
+Miguel Lozano,patrickbaxter@example.org,59,Denver,30.18
+Shari Winters,ycase@example.org,49,San Francisco,461.06
+Joel Lamb,kennedytracy@example.org,70,San Francisco,128.89
+Laura Garcia,adamwashington@example.com,72,Jacksonville,310.88
+Amy Dawson,danielle13@example.com,59,Washington,349.19
+Max Gonzalez,jesuscole@example.com,52,Philadelphia,74.74
+Justin Cohen,fscott@example.org,65,Austin,276.02
+Cathy Johnson,stephaniemiller@example.com,22,Denver,365.95
+Victor Bryant,brian06@example.net,46,New York,138.7
+Lisa Klein,sarah92@example.net,22,Dallas,301.37
+Sandra Cross,josephallen@example.org,46,San Francisco,397.5
+Kimberly Perry,jeffreynelson@example.net,80,Austin,182.6
+Wayne Schroeder,michealhunter@example.net,75,Austin,420.44
+Elizabeth Barnes,ereed@example.com,19,New York,186.78
+Grant Fuentes,whiteheaddeborah@example.org,34,Columbus,409.31
+Michael Lopez,jessicajenkins@example.net,46,Charlotte,145.54
+Rachel Soto,melinda02@example.net,77,Washington,169.94
+Raven Bradley,hamptontimothy@example.com,23,Washington,146.53
+Krystal Vasquez,charleshoward@example.net,69,Denver,146.63
+Claire Pierce,isutton@example.net,30,Dallas,246.82
+Marissa Hernandez,theresa77@example.net,58,Jacksonville,17.51
+Chloe Pham,fgray@example.com,20,Phoenix,470.9
+Raymond Morris,jilltucker@example.com,73,Los Angeles,474.46
+Kimberly Bennett,timothy81@example.com,22,San Jose,319.16
+Michael Johnson,ghall@example.com,49,Dallas,51.25
+Daniel Anthony,bjohnson@example.org,70,Jacksonville,354.77
+Sarah Knight,tholt@example.org,56,San Francisco,180.85
+Mark Hanson,gainesmeghan@example.com,32,Seattle,245.04
+Rhonda Boyer,myersheidi@example.org,69,San Diego,415.72
+Melissa James,knightann@example.com,57,Fort Worth,11.76
+Robert Sanchez,jameswright@example.net,40,Columbus,39.41
+Taylor Henderson,cindymorris@example.com,27,Indianapolis,41.53
+Eric Barker,sarah29@example.net,26,Jacksonville,10.66
+Teresa Everett,mckeejames@example.org,27,Jacksonville,203.69
+Gregory Francis,brianna46@example.net,54,San Diego,122.07
+Sarah Norris,matthewblake@example.org,20,New York,77.5
+Lacey Farmer,gerald59@example.net,80,Chicago,138.96
+Jermaine Mckenzie,jamesphelps@example.net,52,Los Angeles,119.05
+Kevin Payne,obaker@example.org,34,Dallas,186.78
+Mr. Thomas Acevedo,singhkatie@example.com,26,San Diego,432.91
+Kathryn Gonzalez,jcox@example.net,52,Houston,150.02
+David Brown,brianmartin@example.net,79,San Antonio,157.37
+Joshua Bush,mcguirekatrina@example.com,20,Houston,349.15
+Holly Lewis,coreybarber@example.net,67,Dallas,359.61
+Tiffany Campbell,ttran@example.org,66,Los Angeles,347.65
+Dana Edwards,fergusonnicholas@example.org,44,Denver,199.27
+Gary Ford,mward@example.org,80,Chicago,414.39
+Steven Baker,barbarahart@example.org,54,Jacksonville,403.96
+Jessica Stephens,bethanyhardy@example.net,42,Indianapolis,156.56
+Johnathan Chandler Jr.,camposlawrence@example.org,67,Washington,102.37
+Shannon Scott,nelsonandrew@example.com,46,San Diego,109.36
+Peter Hall,matthewscott@example.com,67,New York,228.73
+Donald Walton,walkermichelle@example.net,30,San Diego,432.74
+Christopher Jones,clarkkathleen@example.net,55,Phoenix,37.62
+Marc Bates,whitakeranna@example.com,28,San Diego,194.11
+Terri Porter,angelalogan@example.net,74,Philadelphia,150.07
+Kaylee Jackson,towens@example.org,54,San Jose,298.53
+Yolanda Arnold,samanthacraig@example.net,20,Denver,411.67
+Cynthia Mitchell,brownsarah@example.org,20,Washington,348.46
+Tara Brown,patrickhenry@example.net,55,Phoenix,405.95
+Jonathan Waller,travis65@example.org,49,Austin,369.11
+Danielle Carr,amandastewart@example.org,46,San Diego,171.47
+Sherri Watson,gregorydavidson@example.org,48,Los Angeles,219.56
+Sean Martin,zherring@example.net,46,Chicago,214.18
+Stephanie Lyons,douglascarolyn@example.net,52,Austin,387.16
+Steven Rodgers,peter69@example.com,55,Columbus,461.2
+Natalie Jones,richardburke@example.net,32,New York,177.89
+Jeffrey Liu,lisareed@example.com,76,Austin,252.76
+Kenneth Hart,tony70@example.com,79,Indianapolis,11.87
+Amy Collins,jaymorris@example.com,38,Columbus,186.48
+Mark Hayes,tamarakelly@example.com,30,New York,349.31
+Christopher Kennedy,larrygeorge@example.org,27,Austin,411.21
+Patrick Murphy,velasquezpaige@example.com,47,Phoenix,63.87
+Benjamin Juarez,meganmarshall@example.org,63,San Francisco,65.8
+Corey Johnson,courtneymartinez@example.net,72,San Francisco,315.08
+Matthew Smith,bellangela@example.com,77,Philadelphia,356.68
+Cynthia Clarke,pattersonjuan@example.com,53,San Jose,420.23
+James Lee,emilyrobinson@example.org,18,New York,168.71
+Keith Jimenez,mayodanielle@example.net,72,New York,274.31
+Brandon Reid,jessesmith@example.net,67,Washington,342.08
+Kimberly Watts,melissajones@example.org,22,New York,448.03
+Megan Pham,robert41@example.org,23,Fort Worth,267.0
+Crystal Gregory,ckelly@example.com,52,Denver,46.75
+William Smith,gibsonmichael@example.net,20,Jacksonville,156.99
+Edward Ferguson,heather25@example.org,75,San Francisco,182.66
+Michael Baker,nelsonlisa@example.net,63,San Francisco,495.3
+Linda Kim,anna20@example.com,51,Chicago,375.07
+Joann Schaefer,kstone@example.org,57,Indianapolis,12.47
+David Webb,kathleenmoody@example.net,58,Chicago,114.98
+Lisa Garcia,humphreyalexander@example.net,80,Denver,333.28
+Megan Murray,kellygibson@example.com,70,Jacksonville,386.12
+Emily Diaz,dawn80@example.org,66,San Jose,128.73
+Juan Sanders,denise24@example.com,44,San Francisco,446.76
+Amber Jackson,juanbailey@example.com,21,New York,438.42
+Kevin Clark,echristensen@example.org,22,Indianapolis,50.32
+Adrian Ellis,jeanette08@example.org,55,San Jose,358.55
+Kaitlyn Nixon,nicholasmorales@example.org,78,Denver,417.39
+Christopher Campbell,jwilliams@example.net,62,New York,497.76
+Kathy Smith,nkaufman@example.net,20,Columbus,233.16
+Kristen Osborn,william18@example.com,74,Los Angeles,245.68
+Michael Brown,tonithompson@example.com,69,San Jose,41.8
+Jennifer Stewart,acollins@example.com,53,Charlotte,94.14
+Michael Howard,stephencampbell@example.net,33,Dallas,282.81
+Maria Terrell,adamsmikayla@example.org,28,San Diego,78.89
+Robert Santana,jamesanderson@example.net,66,Dallas,55.25
+Deanna Hicks,mwiley@example.com,76,Houston,335.18
+Sheena Collins,triciahall@example.net,27,Phoenix,339.16
+David Williams,tracy84@example.net,48,San Francisco,215.09
+Larry Harris,robert85@example.net,73,Los Angeles,59.47
+Harry Morris,ogarrett@example.com,75,Seattle,116.4
+Joshua Owen,gsanford@example.com,47,Charlotte,83.67
+Dana Osborne,latoya17@example.org,35,San Jose,367.48
+Jessica Mendoza,fgray@example.org,26,Dallas,201.67
+Tracy Powell,brenda56@example.com,48,San Jose,39.94
+Kimberly Young,brendareynolds@example.com,57,Seattle,275.49
+Daniel Warren,jhutchinson@example.com,54,Jacksonville,64.93
+Michelle Garcia,josephedwards@example.net,53,Jacksonville,210.99
+Colleen Espinoza,tjensen@example.net,68,Los Angeles,418.01
+Kimberly Colon DDS,jenniferjimenez@example.com,63,Fort Worth,422.1
+Rhonda Jones,alicia63@example.org,72,San Jose,244.39
+Nicole Bryan,tlara@example.org,24,Jacksonville,255.78
+Kyle Palmer,callen@example.org,45,Dallas,109.43
+Tonya Knight,christopherjarvis@example.com,72,Seattle,44.04
+Hannah Wallace,hannahmartinez@example.org,38,Phoenix,303.25
+Karen Hines,ntrevino@example.net,68,San Antonio,339.4
+Heather Lozano,wshort@example.org,24,Phoenix,267.34
+Timothy Lewis Jr.,ddelgado@example.org,36,San Jose,118.62
+John Ward,chendrix@example.com,40,Denver,174.24
+Renee Miller,cobbdiana@example.com,45,Denver,124.48
+April Luna,fullernatalie@example.net,68,San Jose,357.61
+Sara Patterson,sarah56@example.com,41,Charlotte,289.53
+Dalton Morris,kshaffer@example.net,38,New York,425.84
+Tyler Garcia,matthewjones@example.net,28,Chicago,98.93
+Kevin Kline,lhoward@example.com,75,Seattle,353.15
+Jennifer Wood,andrea40@example.com,51,Philadelphia,302.35
+Brian Tapia,joyblackwell@example.org,58,Dallas,347.56
+Julia Contreras,vobrien@example.org,23,Philadelphia,491.27
+Michael Heath,robertsmatthew@example.net,34,Jacksonville,220.48
+Joshua Watson,rojasnicholas@example.com,41,Columbus,242.05
+Amy Young,karencarroll@example.org,77,Seattle,490.44
+Evan Mills,david75@example.org,77,San Diego,204.24
+Christopher Jordan,campbelldonald@example.org,64,San Diego,395.46
+Michael Murphy,barbarahall@example.org,79,Columbus,296.14
+Mark Mann,robertwood@example.com,77,San Francisco,288.4
+Brandon Davis,thernandez@example.net,24,Charlotte,94.41
+Mr. Jason Vazquez,ihernandez@example.com,19,Washington,275.78
+Jaclyn Summers,kvillegas@example.org,35,Austin,488.32
+Caleb Harris,jenkinskimberly@example.org,53,San Diego,226.36
+Jeremiah Benitez,williamsdanielle@example.net,44,Phoenix,247.3
+Brian Martin,sstone@example.net,40,Houston,203.97
+Jose Campbell,gbeard@example.org,21,Houston,496.1
+Jamie Thomas,bwilliams@example.com,76,Denver,366.83
+John Tucker,wilsonscott@example.net,23,San Antonio,301.91
+Kevin Washington,james55@example.org,45,Dallas,148.41
+Beverly Cordova,lopezjason@example.com,54,Fort Worth,160.32
+Joshua Woodard,lmoore@example.net,40,San Francisco,199.97
+Amber Medina,swilliams@example.net,22,San Francisco,87.58
+John Goodman,patty81@example.org,49,Charlotte,328.41
+John Morris,michaeldiaz@example.org,41,Phoenix,321.81
+Edward Stewart,allisonmoore@example.com,54,Phoenix,466.87
+Michael Johnson,jodihart@example.net,42,Los Angeles,122.71
+Jordan Zimmerman,stephensrenee@example.org,41,Dallas,342.14
+Daniel Bass,brianwilliams@example.org,57,Fort Worth,199.77
+John Drake,amckenzie@example.org,64,Jacksonville,32.72
+Morgan Mcconnell,barnesvanessa@example.org,77,Philadelphia,477.14
+Samuel King,adavis@example.net,49,Columbus,98.34
+Michael Smith,richard22@example.com,71,Indianapolis,103.64
+Laura Wallace,christopherlowery@example.com,44,Houston,15.84
+Amanda Coleman,natalie05@example.com,37,Houston,183.98
+Dustin Martin,vsherman@example.net,53,Charlotte,437.08
+Kevin Pena,elizabeth83@example.net,78,Denver,494.89
+Kristin Yates,stevenrush@example.org,64,Phoenix,385.05
+Amy Alvarez,ogregory@example.com,79,Dallas,415.51
+Daniel Martin,allisonmurphy@example.net,37,Jacksonville,339.84
+Julie Dickson,kingkathy@example.org,42,Jacksonville,122.42
+Frank Wilson,ocohen@example.com,21,San Francisco,195.33
+Andre Thompson,bullockmarie@example.net,32,Charlotte,479.94
+Troy Moore,johnsonkatie@example.com,72,San Francisco,330.01
+Ashley Browning,solomonjamie@example.org,60,Jacksonville,314.37
+Gabrielle Hahn,efrancis@example.net,64,Washington,174.96
+Debbie Jones,connormoore@example.net,27,Charlotte,429.31
+Joel Burton,donnarodriguez@example.net,38,San Antonio,124.7
+Jennifer Gilbert,samantha57@example.com,65,Los Angeles,157.79
+Katelyn Baxter,wrightscott@example.com,42,Houston,347.04
+Ashley Quinn,ygonzales@example.com,68,Fort Worth,359.61
+Sharon Smith,shannonrobinson@example.com,64,San Jose,214.51
+Tamara Brown,nicoleyoung@example.org,54,Los Angeles,296.11
+Angela Hood,lori63@example.net,34,San Jose,173.54
+Andrew Moore,stephen17@example.com,49,New York,183.65
+Thomas Gray,timothy81@example.net,49,Columbus,391.13
+Deborah Lane,hforbes@example.org,29,San Jose,35.99
+Robert Williams,zacharygraham@example.org,71,Indianapolis,229.24
+Kayla Smith,hrichardson@example.net,73,Seattle,258.45
+Michael Carroll,longsally@example.net,37,Charlotte,161.52
+Sydney Maddox,andrewneal@example.net,43,Indianapolis,79.07
+Jodi Garcia,scott56@example.net,18,San Diego,292.4
+Larry Wong,kaylapugh@example.net,30,Columbus,403.17
+Michael Jimenez,johnny90@example.com,71,New York,95.72
+Justin Johnson,harrellrebecca@example.net,75,Los Angeles,374.62
+Rhonda Mckenzie,brandon02@example.com,62,Dallas,477.24
+Jose Williams,xtyler@example.net,67,San Antonio,93.66
+Douglas Crawford,austinwilliams@example.org,31,San Diego,106.23
+Katrina Stewart,bryanmitchell@example.net,26,Austin,144.05
+Rachel Ayala,adrian62@example.org,43,Washington,151.12
+Andrew Palmer,johnlin@example.org,72,San Antonio,163.79
+Brian Church,nathan06@example.com,48,Austin,258.08
+Olivia Mccoy,echang@example.com,32,Houston,184.72
+Allison Aguilar,gloriarivas@example.org,58,Phoenix,439.21
+Ann Bryan,mcconnellbrooke@example.net,37,Los Angeles,176.89
+Yvonne Ponce,coxtamara@example.net,60,Los Angeles,466.89
+Carlos Thompson,mathissherri@example.org,78,New York,327.87
+Crystal Fischer,erobinson@example.org,47,Los Angeles,486.21
+Jacqueline Costa,christine02@example.net,41,Dallas,424.54
+William Griffin,aprilmaldonado@example.com,39,New York,282.5
+Lisa Williams,zjohnson@example.net,25,Columbus,141.14
+Jeffrey Mitchell,robinsonamber@example.org,20,Seattle,97.53
+Spencer Bauer,hensonkrista@example.com,44,San Antonio,145.67
+Mark Calhoun,brendagutierrez@example.org,34,Fort Worth,23.76
+James Drake,blake33@example.net,29,Philadelphia,454.0
+Mrs. Stacey Davis,blawrence@example.net,63,Philadelphia,380.42
+Sara Rogers,david85@example.org,43,Austin,354.13
+Penny Walton,mullinstracy@example.net,69,Seattle,373.13
+Blake Reyes,jkane@example.com,70,Dallas,271.13
+Adam Marsh,williamsontina@example.org,56,San Diego,260.19
+Edward Jones,adamsaaron@example.net,20,Chicago,181.01
+Lindsay Rogers,smithmichele@example.org,21,San Jose,52.78
+Kristin Hampton,jacobdavis@example.org,35,Indianapolis,347.29
+Marcus Porter,fisherrobert@example.net,71,Denver,454.45
+Lynn Romero,eharris@example.com,72,Washington,377.39
+Tammy Schmidt,barbaraolsen@example.com,20,Charlotte,298.86
+Janice Berry,thompsonmatthew@example.net,46,Phoenix,407.51
+Anthony Webb,kjordan@example.net,40,San Jose,170.24
+Yolanda Neal,kathyward@example.com,76,Indianapolis,490.35
+Jesse Moreno MD,annamarquez@example.org,60,Dallas,328.28
+Lauren Matthews,villanuevamargaret@example.net,18,Columbus,451.64
+Rebecca Perry,robertsrick@example.org,75,Austin,483.43
+Stephanie Pratt,tara21@example.com,32,New York,218.35
+Michael Watson,jessicaanderson@example.org,23,Houston,445.67
+Dennis Arias,jason90@example.net,65,Philadelphia,43.69
+Jordan Henderson,scarey@example.net,52,Phoenix,462.99
+Cory Fischer,leslie74@example.com,25,Indianapolis,156.78
+Julie Moore,mitchell88@example.org,58,San Francisco,150.57
+Whitney Andrews,bfernandez@example.net,71,Los Angeles,21.0
+Benjamin Vang,dennisortega@example.net,20,Austin,497.46
+Randall Gay,erinlin@example.net,26,Jacksonville,492.29
+Jacob Wright,walter52@example.org,79,San Diego,163.71
+Mike Garcia,azimmerman@example.com,41,Philadelphia,325.87
+Cynthia Morrow,osmith@example.org,53,Chicago,71.61
+Samuel Hogan,adriana79@example.net,73,Philadelphia,441.43
+Emily Moran,lisadavid@example.com,68,Phoenix,328.27
+Douglas Wu,michael41@example.org,30,Indianapolis,97.77
+Lonnie Palmer,pwilliams@example.net,23,Austin,62.16
+Megan Gutierrez,bcarr@example.net,43,Chicago,22.1
+Monique Gray,wsmith@example.com,72,Washington,287.66
+Megan Estrada,maureenberry@example.net,30,Jacksonville,432.38
+Lindsey Gomez,fryelynn@example.org,28,San Francisco,141.63
+Yvonne Young,jgardner@example.com,28,San Diego,96.06
+Carlos Williams,devin01@example.org,71,San Diego,154.07
+Christopher Kelly,cwilliamson@example.net,60,Indianapolis,82.88
+Heather Osborn,robinsonnancy@example.net,80,Dallas,487.72
+Taylor Ortega,eramirez@example.net,42,Philadelphia,101.57
+Mark Santiago,denise99@example.org,27,San Diego,414.28
+Leslie Ramsey,masonmatthew@example.net,40,Charlotte,252.41
+Allen Choi,xhawkins@example.net,74,Indianapolis,131.72
+Kimberly Fowler,sschmidt@example.com,49,Dallas,66.67
+Jason Martinez,murphytimothy@example.com,63,Houston,66.15
+Darlene Grimes,rachel48@example.org,51,Jacksonville,66.96
+Megan Brown,mjohns@example.com,26,Philadelphia,316.75
+Joshua Wilson,tparsons@example.com,79,San Diego,149.69
+Cesar Murphy,stanleyanthony@example.net,77,New York,498.79
+Laura Skinner,hoffmanjonathan@example.com,28,Jacksonville,243.21
+Karen Smith,oscarfitzpatrick@example.net,68,San Antonio,331.16
+Bryan Lucero,perezdavid@example.com,36,Dallas,155.95
+Brian Rose,pgarner@example.com,29,Indianapolis,167.0
+Eric Martin,castrostacey@example.org,49,Fort Worth,367.4
+Ryan Mercado,gmiller@example.org,44,San Jose,271.66
+Whitney Chapman,ewiley@example.net,41,San Francisco,124.33
+Andre Patterson,ramosjessica@example.com,22,Columbus,195.47
+Donna Copeland,ucooper@example.org,78,Dallas,65.33
+Daniel Powell,zmarks@example.org,59,Columbus,382.22
+Teresa Jackson,melissachambers@example.org,78,Jacksonville,320.64
+Carlos Barr,benjamin68@example.com,55,Fort Worth,286.33
+Austin Newman,mwong@example.org,49,Austin,394.17
+Daniel Barr,thompsonjessica@example.com,49,Columbus,462.21
+Benjamin Harmon,laura60@example.com,42,Seattle,467.06
+Kelli Crawford,matthew85@example.net,24,Dallas,354.83
+Jacqueline Miller,william72@example.net,69,Fort Worth,30.61
+Tamara Taylor,shannon71@example.com,44,Indianapolis,70.37
+Sharon Stanley,erin67@example.com,68,San Diego,441.63
+Maria Carrillo,beardandrew@example.org,61,Austin,26.21
+Kimberly Williams,jasonchan@example.net,25,San Francisco,411.11
+Robert Parsons,arnoldjustin@example.net,65,San Jose,391.95
+Jacob Harris,yfernandez@example.com,33,Los Angeles,119.41
+George Cox,wilkinsonhelen@example.net,40,Jacksonville,212.62
+Amanda Mendez,james08@example.net,54,Philadelphia,51.84
+Calvin Lawson,ogarza@example.net,53,Austin,100.24
+Susan Adams,kingdalton@example.com,45,San Jose,136.42
+Michael Rowland,ericparker@example.net,53,Chicago,150.31
+Amanda Gibbs,medinacharles@example.com,49,Philadelphia,232.38
+Michael Anderson,pcooper@example.com,30,Austin,249.97
+David Smith,glennsampson@example.org,42,Phoenix,349.9
+Grant Mcdaniel,mwatson@example.net,73,San Diego,386.92
+Spencer Lopez,baxterwilliam@example.org,67,Houston,424.64
+Kevin Oconnell,ramirezkelsey@example.com,39,Houston,367.14
+Kelly Drake,stacymelendez@example.org,73,Washington,257.03
+Brian Wallace,brittany71@example.com,33,New York,134.08
+Paul Robles,pmiller@example.com,27,Jacksonville,197.63
+Jonathan Griffith,samanthamiller@example.com,76,Phoenix,22.62
+Raymond Sanchez,barnesmatthew@example.com,75,Fort Worth,95.98
+Matthew Schroeder,gomezcarolyn@example.net,62,Charlotte,193.64
+Jessica Robbins,bryantjessica@example.org,77,San Francisco,486.7
+Sarah Stewart,anoble@example.com,35,Indianapolis,228.6
+Jason Cook,jennifer13@example.net,44,Charlotte,32.5
+Justin Bradford,jeffrey69@example.net,34,Charlotte,327.17
+Brian Quinn,kelly22@example.net,66,Columbus,375.65
+Valerie Tucker DDS,dbenjamin@example.com,21,Philadelphia,296.18
+Robin Jordan,douglashall@example.net,44,Austin,395.07
+Joshua Webster,jonesbrenda@example.net,71,San Jose,222.26
+Wendy Hamilton,edwardsnicole@example.org,47,Houston,177.58
+Katelyn Heath,jgross@example.net,22,San Francisco,400.5
+Erin Adkins,swhite@example.net,69,Columbus,497.88
+Wesley Bell,clayton93@example.com,53,Philadelphia,257.31
+Thomas Solomon,gjames@example.net,44,San Antonio,490.61
+Rebecca Finley,xwest@example.org,43,Houston,216.1
+Christina Riley,salinasmonique@example.net,76,Washington,229.5
+Jennifer Dodson,sara44@example.net,62,Columbus,25.58
+Brenda Tucker,sarahreed@example.org,32,Jacksonville,15.15
+Mary Simpson,smithrodney@example.net,57,Los Angeles,461.61
+Lori Ramos,jennifer18@example.net,53,Denver,94.82
+Jennifer Miller,laurie09@example.net,71,Philadelphia,118.41
+Leslie Myers,robert03@example.com,45,Jacksonville,389.16
+Danielle Campbell,paul84@example.net,60,Chicago,427.19
+Tiffany Williams,felicia74@example.net,51,Austin,147.66
+Roger Ramirez,terryjames@example.org,28,Fort Worth,52.5
+Catherine Powell,cardenaslinda@example.org,72,Los Angeles,499.42
+Sarah Hahn,andrew59@example.net,80,Charlotte,331.9
+Maria Frazier,pricewilliam@example.net,76,Indianapolis,132.6
+Anita Weber,tylerrichard@example.org,50,Chicago,419.15
+Julia Howard DDS,echan@example.org,37,San Diego,449.91
+Gabrielle Peterson,arnoldvictoria@example.org,64,San Diego,236.96
+Linda English,ghamilton@example.net,79,Philadelphia,395.09
+Elizabeth Colon,ryan16@example.com,19,San Antonio,192.74
+Bryce Scott,michael01@example.com,32,Denver,137.61
+Gilbert Barr MD,nancy12@example.net,47,Charlotte,414.82
+Taylor Newman,laurie06@example.org,42,Dallas,38.99
+Chad Thomas,ucarlson@example.net,77,Dallas,150.91
+Elizabeth Martin,edwardsrebecca@example.com,72,San Francisco,419.05
+Bryan Guerra,leechristine@example.com,68,Chicago,191.56
+Christina Roth,hharding@example.com,44,Houston,439.72
+Michael Martin,ericwalker@example.net,80,Denver,189.27
+Thomas Parker DVM,smithjennifer@example.org,38,Charlotte,378.87
+Anne Brock,moorejustin@example.org,39,Charlotte,314.59
+Nicholas Hamilton,samantha49@example.org,76,Charlotte,53.06
+Misty Payne,jonathan46@example.org,59,Indianapolis,458.62
+Erika Ramirez,nicholskrista@example.net,47,Columbus,11.58
+Theresa Harris,bryanrivas@example.org,36,Washington,46.08
+Matthew Kent,emorrison@example.net,55,Fort Worth,336.94
+Erin Livingston,haley01@example.com,62,Washington,133.52
+Sergio Cordova,lisa43@example.com,75,Washington,67.88
+Stephanie Osborne,dayjason@example.net,59,Fort Worth,267.07
+Dr. Timothy Sanchez,chaneyamanda@example.org,51,Chicago,473.81
+James Johnson,gabriel79@example.net,29,Austin,277.84
+Alec Tucker,gail67@example.org,54,San Francisco,430.1
+Ryan Johnston,tbryant@example.com,37,New York,304.27
+Lisa Clark,lesterrebecca@example.net,67,Washington,113.24
+Miranda Black,ellisonmatthew@example.org,53,San Francisco,459.91
+Patrick Brown,jesse90@example.net,38,Fort Worth,242.93
+Mrs. Tonya Ramsey,hooverjohn@example.com,54,Dallas,395.24
+Misty Russell,richardcook@example.com,30,Fort Worth,392.2
+Natasha Moore,ortizsandy@example.net,44,Phoenix,198.46
+John Shaffer,iwood@example.com,23,San Jose,372.65
+Christopher Carpenter,andre56@example.org,32,Houston,76.88
+Amy Edwards,nclark@example.org,46,Columbus,111.51
+Karen White,justin66@example.org,46,Phoenix,368.63
+Linda Hoffman,millerbrandon@example.com,28,San Francisco,300.92
+Ronald Bell,bakerjames@example.net,66,Denver,315.76
+Deanna Murphy,iknox@example.com,64,Fort Worth,233.09
+Rebecca Sullivan,kingdavid@example.net,35,San Diego,392.82
+Rachel Moses,hammondmelody@example.org,37,San Francisco,229.81
+Kenneth Owen,rick74@example.org,34,San Francisco,311.41
+Frank Mejia,erodriguez@example.net,30,Jacksonville,377.1
+Lawrence Huynh,christina37@example.org,30,Philadelphia,121.95
+Kenneth Johnston,beasleymichael@example.net,58,Columbus,315.72
+Alyssa Flowers,james57@example.com,38,Houston,320.14
+John Allen,jillhicks@example.net,77,Jacksonville,246.43
+Courtney Vasquez,dreyes@example.com,31,Philadelphia,224.96
+Jacob Randolph,davidterry@example.org,34,San Diego,63.11
+Jessica Doyle,clinedustin@example.net,32,Austin,67.24
+Ashley Johnson,ccraig@example.com,65,Indianapolis,388.29
+Amy Smith,yburke@example.com,31,Washington,356.82
+Lauren Joyce,melendezalyssa@example.org,41,Austin,389.91
+Carlos Garcia,timothyblack@example.com,41,San Francisco,253.86
+Brian Parker,tonymontoya@example.net,19,Dallas,284.64
+Pamela Henderson,anthony69@example.net,66,San Diego,64.73
+Brandi Price,hoffmanmargaret@example.com,28,Seattle,424.58
+Sandra Thompson,gdelacruz@example.org,29,San Diego,408.76
+Carla Nelson,jennifer00@example.com,30,Philadelphia,45.08
+Whitney Anderson,hallmichael@example.net,57,Washington,64.25
+Clinton Rogers,samantha25@example.net,25,Dallas,196.78
+Jordan Harding,martinthomas@example.net,29,Chicago,483.71
+Nathan Barker,evazquez@example.net,72,Indianapolis,198.56
+Beth Nelson,sshaw@example.com,79,Columbus,411.4
+Tracy Moore,gina58@example.net,72,Jacksonville,212.05
+Robert Hernandez,brandonkeith@example.com,19,Charlotte,496.45
+Erica Franklin,parrishwilliam@example.org,49,Philadelphia,48.97
+Kevin Baldwin,brooke53@example.org,72,Chicago,124.65
+Megan Hickman DDS,hartdana@example.com,46,Philadelphia,72.4
+Christina Scott,lauren05@example.org,51,San Antonio,31.61
+Chad Pineda,montgomeryashley@example.org,68,Seattle,113.39
+Lorraine Johnson,jennifer32@example.net,59,Washington,489.54
+David Kirby,elizabeth07@example.com,45,San Jose,70.51
+Patricia Phillips,cheyenne61@example.net,22,Denver,307.58
+Keith Garcia,april40@example.com,65,Indianapolis,266.26
