@@ -1,9 +1,10 @@
 import csv
 from functools import reduce
 
-# ==========================
-# 1. Load CSV into a list of dictionaries
-# ==========================
+# ==================================================
+# PERSON 1: Load CSV file and parse data
+# Kayuza
+# ==================================================
 
 users = []
 
@@ -15,9 +16,11 @@ with open("user_data.csv", mode="r", encoding="utf-8") as file:
         row["Purchase_Amount"] = float(row["Purchase_Amount"])
         users.append(row)
 
-# ==========================
-# 2. Filter users over 30 who spent more than $100
-# ==========================
+# ==================================================
+# PERSON 2: Filter users over 30 with purchases
+# Shamma
+# greater than $100 and extract their emails
+# ==================================================
 
 filtered_users = list(
     filter(
@@ -26,10 +29,6 @@ filtered_users = list(
     )
 )
 
-# ==========================
-# 3. Map emails from filtered users
-# ==========================
-
 emails = list(
     map(
         lambda user: user["Email"],
@@ -37,9 +36,10 @@ emails = list(
     )
 )
 
-# ==========================
-# 4. List comprehension for New York users
-# ==========================
+# ==================================================
+# PERSON 3: List comprehension for New York users
+# Nakubulwa
+# ==================================================
 
 new_york_users = [
     f"{user['Name']}: {user['Age']}"
@@ -47,9 +47,11 @@ new_york_users = [
     if user["City"] == "New York"
 ]
 
-# ==========================
-# 5. Reduce total purchase amount
-# ==========================
+# ==================================================
+# PERSON 4: Calculate total purchases using reduce
+# and find the top 5 oldest users
+# Stella
+# ==================================================
 
 total_purchase_amount = reduce(
     lambda total, user: total + user["Purchase_Amount"],
@@ -57,19 +59,16 @@ total_purchase_amount = reduce(
     0
 )
 
-# ==========================
-# 6. Sort top 5 oldest users
-# ==========================
-
 top_5_oldest = sorted(
     users,
     key=lambda user: user["Age"],
     reverse=True
 )[:5]
 
-# ==========================
-# 7. Output Results
-# ==========================
+# ==================================================
+# PERSON 5: Integrate everything and format output
+# Brady
+# ==================================================
 
 print("=" * 50)
 print("USERS OVER 30 WHO SPENT MORE THAN $100")
